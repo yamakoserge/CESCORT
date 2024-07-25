@@ -1,10 +1,15 @@
 # Cescort
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
+presenter cette cote secret et intime de la femme.
+
+Envie de compagnie, pénétrez dans l'univers de l'escort!
+
+Vous avez envie de partager un moment de plaisir entre ami(e) ! Vous désirez faire la connaissance d'une jeune personne afin de partager un pot en ami(e) et de vous sentir reconforter! Votre quête est plus spécifique car vous recherchez plutôt des compagnes et des compagnons ! N'hésitez pas à passer par notre service d'escort vérifié.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+version 17.3.3.
 
 ## Code scaffolding
 
